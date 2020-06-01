@@ -18,7 +18,7 @@
 
 ### Simple and automatic way
 
-Go [https://gdindex-code-builder.glitch.me/](https://gdindex-code-builder.glitch.me/), and follow its instructions.
+Go [https://gd-indx.glitch.me/](https://gd-indx.glitch.me/), and follow its instructions.
 
 ### Manual way
 
